@@ -1,1 +1,8 @@
-<Solution />
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="NCShop.Business/NCShop.Business.csproj" />
+  <Project Path="NCShop.Data/NCShop.Data.csproj" />
+  <Project Path="NCShop.UI/NCShop.UI.csproj" />
+</Solution>
